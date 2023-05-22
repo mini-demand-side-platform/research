@@ -3,9 +3,11 @@ For my research work on mini-demand-side-platforms, I utilized JupyterLab as my 
 
 ## Requirements
 - poetry
-- docker
 - docker-compose
 
 ## Setup
+1. start databases
+2. install python packages
+3. activate jupyterlab
 
 
