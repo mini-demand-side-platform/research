@@ -1,7 +1,7 @@
 # Research
 For my research work on mini-demand-side-platforms, I utilized JupyterLab as my primary tool for conducting analyses. All research tasks and analyses were carried out within this environment.
 
-Also, this repository has a simple example of how to use the [mini-demand-side-platform/feature-store](mini-demand-side-platform/feature-store) during training and inference.
+Also, this repository has a simple example of how to use the [mini-demand-side-platform/feature-store](https://github.com/mini-demand-side-platform/feature-store) during training and inference.
 
 ## Requirements
 - poetry
