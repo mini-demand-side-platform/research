@@ -10,13 +10,13 @@ Also, this repository has a simple example of how to use the [mini-demand-side-p
 - make
 
 ## Setup
-#### 1. Active databases 
+#### 1. Activate databases 
 ```
 git clone git@github.com:mini-demand-side-platform/databases.git
 cd databases 
 make run-all-with-example-data
 ```
-#### 2. Active feature store
+#### 2. Activate feature store
 ```
 docker run -it --rm --network mini-demand-side-platform \
     -p 8000:8000 \
